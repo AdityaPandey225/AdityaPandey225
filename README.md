@@ -8,19 +8,14 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript, HTML, CSS, SQL  
-- ⚙️ **Technologies**: Node.js, MongoDB  
+- 💻 **Languages**: Java,JavaScript, HTML, CSS, SQL  
+- ⚙️ **Technologies**: Node.js,  
 - 🔧 **Tools**: Git, GitHub, Android Studio  
 - 📚 **Other Skills**: Data Structures and Algorithms, CNC Programming, AutoCAD
 
 ---
 
 ## 📌 Projects
-
-### 🔒 Face Recognition System  
-**Tech Used**: Python, HTML, CSS, JavaScript  
-Designed a real-time face recognition system for secure authentication and identity verification, useful for security, attendance, and user access control.
-
 ### 🛠️ Semi-Automatic Drilling cum Tapping Machine  
 **Tech Used**: Mechanical Design, Automation, CNC Programming  
 Built a semi-automatic machine to improve precision and efficiency in manufacturing by combining sensors, controllers, and automation with manual control.
