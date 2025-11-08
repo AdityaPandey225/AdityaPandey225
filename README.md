@@ -9,16 +9,9 @@
 ## 🛠️ Tech Stack
 
 - 💻 **Languages**: Java, Python, JavaScript, HTML, CSS, SQL 
-- ⚙️ **Technologies**: Node.js,  
-- 🔧 **Tools**: Git, GitHub, Android Studio  
+- ⚙️ **Technologies**: Node.js, django 
+- 🔧 **Tools**: Git, GitHub,  
 
-
----
-
-
-### 📱 Android Calculator App  
-**Tech Used**: Java (Android Studio)  
-Developed a basic calculator Android app implementing arithmetic functions.
 
 ---
 
@@ -37,11 +30,9 @@ Developed a basic calculator Android app implementing arithmetic functions.
 
 ## 🏆 Certifications
 
-- Diploma in Computer Applications  
-- Digital Productivity  
-- AutoCAD  
-- SoftPro India – Training Program  
-- Industrial Training at Incopac Parts Pvt Ltd
+-  Cyber Security Certificate (CISCO)
+-  Web Development Certificate(CISCO)
+-  
 
 ---
 
