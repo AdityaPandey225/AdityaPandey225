@@ -8,10 +8,10 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: Java,JavaScript, HTML, CSS, SQL  
+- 💻 **Languages**: Java, Python, JavaScript, HTML, CSS, SQL 
 - ⚙️ **Technologies**: Node.js,  
 - 🔧 **Tools**: Git, GitHub, Android Studio  
-- 📚 **Other Skills**: Data Structures and Algorithms, CNC Programming, AutoCAD
+
 
 ---
 
