@@ -15,10 +15,6 @@
 
 ---
 
-## 📌 Projects
-### 🛠️ Semi-Automatic Drilling cum Tapping Machine  
-**Tech Used**: Mechanical Design, Automation, CNC Programming  
-Built a semi-automatic machine to improve precision and efficiency in manufacturing by combining sensors, controllers, and automation with manual control.
 
 ### 📱 Android Calculator App  
 **Tech Used**: Java (Android Studio)  
